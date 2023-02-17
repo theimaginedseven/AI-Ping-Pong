@@ -9,3 +9,16 @@ h3
 body{
     background-size: contain;
 }
+
+
+.copy_right_footer
+{
+    background-color: grey;
+    color:white;
+    position: absolute;
+    bottom: 0;
+    height: 50px;
+    width: 100%;
+    text-align: center;
+    font-size: 35px;
+}
